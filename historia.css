@@ -1,3 +1,42 @@
 body{
     background-image:url(imagens/fundo.jpg); 
+    font-family: GrandHotel-Regular;
+}
+h1{
+    color: #feb900;
+    font-size: 32px;
+    margin-top: -469px;
+    padding-left: 461px;
+}
+
+p{
+    color:black;
+    width: 297px;
+    text-align: justify;
+}
+.img-bk{
+    width: 80%;
+    margin-top: 92px;
+    padding-left: 116px;
+}
+
+#gif{
+    position: relative;
+    top: -71vh;
+    width: 17em;
+    height: 12em;
+    margin-left: 42;
+    padding-left: 652px;
+    margin-top: -116px;
+    
+    
+}
+
+
+@font-face {
+    font-family: "GrandHotel-Regular";
+    src: url("Grand_Hotel/GrandHotel-Regular.ttf") format("truetype");
+}
+.GrandHotel-Regular-font{
+    font-family: "GrandHotel-Regular";  
 }

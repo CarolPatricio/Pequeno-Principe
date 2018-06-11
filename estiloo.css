@@ -71,17 +71,11 @@ header {
 .livro{
     width: 14em;
     align: center;
-    margin-top: -200px;
-    margin-left: 981px;
+    margin-top: -303px;
+    margin-left: 933px;
 }
 
-/* #gif{
-    position: relative;
-    top: -71vh;
-    width: 17em;
-    height: 12em;
-    margin-left: 42;
-} */
+
 /*--Fim--*/
 
 
@@ -96,12 +90,16 @@ a{
 p{
     color: white;
     padding-top: 309px;
-    margin-left: 215px;
-    padding-left: 44px;
+    margin-left: 240px;
+    padding-left: -13px;
     text-align: center;
     display: block;
-    font-size: 22px; 
+    width: 599px;
+    font-size: 22px;
+    text-align: justify;
+    align-content: center;
 }
+
 @font-face {
     font-family: "GrandHotel-Regular";
     src: url("Grand_Hotel/GrandHotel-Regular.ttf") format("truetype");
@@ -127,7 +125,7 @@ p{
     padding-right:5px;
     padding-left: 1vh;
     position: relative;
-    margin-top: -43px;
+    margin-top: -18px;
     left: -2px;
 
 }

@@ -1,0 +1,36 @@
+body{
+    background-image:url(imagens/fundo.jpg); 
+    font-family: GrandHotel-Regular;
+}
+h1{
+    margin-top: 12.2;
+    color: #feb900;
+    font-size: 60px;
+    position: absolute;
+    padding-left: 529px
+    
+    
+}
+
+.img-bk{
+    width: 89%;
+    margin-top: 38px;
+    padding-left: 69px;
+}
+.personagem{
+    margin-top: -520px;
+    padding-left: 286px;
+    padding-right: 206px;  
+}
+
+img{
+    width: 140px;
+}
+
+@font-face {
+    font-family: "GrandHotel-Regular";
+    src: url("Grand_Hotel/GrandHotel-Regular.ttf") format("truetype");
+}
+.GrandHotel-Regular-font{
+    font-family: "GrandHotel-Regular";  
+}
